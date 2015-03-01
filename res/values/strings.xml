@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JsonServerDataApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_main">Server Data</string>
+    <string name="empty">empty</string>
+    <string name="btn_modify">Modify Data</string>
+
+</resources>
